@@ -2,7 +2,7 @@
 
 Trendler klonu uygulamsı yapılması amaçladım.
 
-![Screenshot_1661782281](https://user-images.githubusercontent.com/62944836/187241099-35c5d9ad-6b25-4319-b1e6-cdf5330e33b5.png)
+![Ekran Görüntüsü (2)](https://user-images.githubusercontent.com/62944836/187242840-e7a89538-cdc9-4fe5-af60-beb8ad3344eb.png)
 
 ![Screenshot_1661782309](https://user-images.githubusercontent.com/62944836/187241077-5b60ad85-3b64-4452-9f35-563777e4e4cb.png)
 
