@@ -2,13 +2,14 @@
 
 Trendler klonu uygulaması yapılması amaçladım.
 
-![WhatsApp Image 2022-08-29 at 18 56 36 (2)](https://user-images.githubusercontent.com/74673470/187244654-e795f0cc-ce86-4a0b-8d97-7cb75bc60b91.jpeg)
+![Ekran Görüntüsü (3)](https://user-images.githubusercontent.com/62944836/187246553-0255d040-a53e-4e93-8311-6d5f089f553b.png)
 
-![WhatsApp Image 2022-08-29 at 18 56 36 (1)](https://user-images.githubusercontent.com/74673470/187244027-eb0e8465-562d-4d90-ab49-8a563c3bc0f9.jpeg)
+![Ekran Görüntüsü (4)](https://user-images.githubusercontent.com/62944836/187246556-f1798a09-6a19-4d98-af0e-1d409dccc916.png)
 
-![WhatsApp Image 2022-08-29 at 18 56 35](https://user-images.githubusercontent.com/74673470/187244033-d1d3f636-ecdc-4178-89e1-df5a1aebaaa9.jpeg)
+![Ekran Görüntüsü (5)](https://user-images.githubusercontent.com/62944836/187246560-b62a54ee-28d2-4629-8212-14ece99a934d.png)
 
-![WhatsApp Image 2022-08-29 at 18 56 36](https://user-images.githubusercontent.com/74673470/187244034-90d3872f-5417-470c-b74f-6b0cffec0007.jpeg)
+![Ekran Görüntüsü (6)](https://user-images.githubusercontent.com/62944836/187246562-b9c07673-6e78-4418-81ec-179f113b0693.png)
 
-![WhatsApp Image 2022-08-29 at 18 56 33 (1)](https://user-images.githubusercontent.com/74673470/187245227-6a9a2823-813e-47e3-89df-bacc32c0b6e3.jpeg)
+![Ekran Görüntüsü (2)](https://user-images.githubusercontent.com/62944836/187246567-2a63723e-33d4-4c67-b719-edf4cabefe54.png)
+
 
